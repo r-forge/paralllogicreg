@@ -1,0 +1,9 @@
+Package: ParallLogicReg
+Title: Logic regression using parallel computing
+Version: 1.0-0
+Author: Unitsa Sangket
+Description: Support for parallel LogicReg package on R.
+Maintainer: Unitsa Sangket <usangket@yahoo.com>
+License: GPL
+Depends: R (>= 2.8), utils
+Packaged:  May  1 09:09:09 2011
