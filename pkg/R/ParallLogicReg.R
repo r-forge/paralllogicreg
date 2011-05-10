@@ -173,7 +173,7 @@ for(aa in 1: length(perm_dev)){
 	dev_to_write[,aa]=temp_dev[[aa]]
 }
 
-devout=paste("dev",Chr,sep="")
+devout=paste("dev",Chr,".txt",sep="")
 write.table(dev_to_write,devout,col.names=F,sep="\t")
 
 Chr 
